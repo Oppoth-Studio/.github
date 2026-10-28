@@ -1,16 +1,3 @@
-# Oppoth
+<!-- Oppoth organization profile. This is an image-based layout for exact visual fidelity. -->
 
-### Software that makes work simpler.
-
-We build modern software products, automation
-tools, and digital experiences.
-
-## Our Products
-
-- OpenSky — Independent SaaS products
-- Clinosa — Veterinary practice software
-- PhuketVillaHub — Property discovery platform
-
-## What We Do
-
-SaaS · AI Automation · Web Development
+![Oppoth — software that makes work simpler. Our products, capabilities and stack.](./assets/oppoth-showcase.png)
